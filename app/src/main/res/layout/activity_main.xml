@@ -23,22 +23,11 @@
         android:orientation="vertical">
 
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:text="HQU Android实验作业-李华硕"
-           android:background="@color/colorPrimary"
-            android:layout_marginBottom="60dp"
-            android:textSize="@dimen/activity_title_size"/>
-
-
-
 
         <Button
             android:id="@+id/btn_fencealarm"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@mipmap/bg_btn_sure"
             android:layout_marginBottom="25dp"
             android:text="虚拟围栏报警功能"
             android:textSize="@dimen/activity_title_size"/>
@@ -47,7 +36,6 @@
             android:id="@+id/btn_district_search"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@mipmap/bg_btn_sure"
             android:layout_marginBottom="25dp"
             android:text="地图边界搜索功能"
             android:textSize="@dimen/activity_title_size"/>
@@ -57,7 +45,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="创建查询围栏功能(测试用)"
-            android:background="@mipmap/bg_btn_sure"
             android:layout_marginBottom="25dp"
             android:textSize="@dimen/activity_title_size"/>
     </LinearLayout>
