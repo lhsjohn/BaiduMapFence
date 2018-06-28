@@ -44,7 +44,7 @@
             android:id="@+id/btn_createfence"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="创建查询围栏功能(测试用)"
+            android:text="创建查询围栏功能"
             android:layout_marginBottom="25dp"
             android:textSize="@dimen/activity_title_size"/>
     </LinearLayout>
