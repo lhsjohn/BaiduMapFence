@@ -11,7 +11,7 @@ public final class Constants {
     /**
      * 默认采集周期
      */
-    public static final int DEFAULT_GATHER_INTERVAL = 10;
+    public static final int DEFAULT_GATHER_INTERVAL = 3;
 
     /**
      * 默认打包周期
