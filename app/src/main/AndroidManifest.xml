@@ -47,7 +47,9 @@
 
         <activity
             android:name=".activity.MainActivity"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:hardwareAccelerated="false"
+            >
             <intent-filter>
 
                 <action android:name="android.intent.action.MAIN" />

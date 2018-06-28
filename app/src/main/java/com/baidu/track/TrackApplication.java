@@ -19,6 +19,7 @@ public class TrackApplication extends Application {
     /**
      * 轨迹服务ID
      */
+    //200523
     public long serviceId = 200523;//轨迹服务id，需要申请
 
     /**
